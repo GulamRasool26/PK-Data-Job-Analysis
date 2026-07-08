@@ -21,4 +21,4 @@ better ROI and what skills to prioritize either way.
 - Local Pakistan hiring rewards Excel + SQL fundamentals and offers faster time-to-hire; global remote roles pay 5-10x more even at entry level but demand stronger Python proficiency and carry real competitive/access barriers. The pragmatic path: build local-market credibility now with SQL/Excel/Power BI while deepening Python skills to keep the remote door open
 
 ## Dashboard
-*Link coming once deployed to Streamlit Cloud.*
+[Dashboard](https://pk-data-job-analysis.streamlit.app)
